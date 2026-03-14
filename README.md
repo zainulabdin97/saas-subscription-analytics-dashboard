@@ -52,13 +52,13 @@ This project investigates how customer retention and churn impact subscriber gro
 # Dashboard Overview
 
 ## Growth Overview
-![Growth Dashboard](images/dashboard_overview.png)
+![Growth Dashboard](images/dashboard_page1.png)
 
 ## Unit Economics
-![Unit Economics](images/unit_economics.png)
+![Unit Economics](images/dashboard_page2.png)
 
 ## Cohort Retention
-![Cohort Heatmap](images/cohort_analysis.png)
+![Cohort Heatmap](images/cohort_heatmap.png)
 
 ---
 
